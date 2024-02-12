@@ -2,8 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+    font-family: "Lato", arial, verdana, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: "Bodoni Moda", serif;
+    font-size: 2em;
 }
