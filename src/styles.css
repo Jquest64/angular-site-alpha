@@ -11,10 +11,12 @@
 
 body {
     font-family: "Lato", arial, verdana, sans-serif;
-    font-size: 16px;
 }
 
 h1 {
-    font-family: "Bodoni Moda", serif;
-    font-size: 2em;
+    font-family: "Cinzel", serif;
+}
+
+h2 {
+    font-family: "Cinzel", serif;
 }
